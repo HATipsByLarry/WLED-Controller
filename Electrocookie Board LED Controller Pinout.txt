@@ -1,0 +1,25 @@
+			WLED Controller Project - As seen from Top of Board
+					
+Device Name                    Wire Color                                   Pins         
+------------------------------------------------------------------------------------------
+Footer for ESP32                                                  D17 - D11    Note 1
+                                                                  H17 - H11    Note 1
+
+Barrel Power Connector                                            E2, C3, E4
+
+Data Hookup Wire               Black                              A2  to A8
+Data Hookup Wire               Red                                B4  to B6
+Data Hookup Wire               Black                              B8  to B16
+Data Hookup Wire               Red                                C6 to C17
+Data Hookup Wire               Green                              E7 to F7
+Data Hookup Wire               Green                              I7 to I17
+
+LED 3 wire power connector     Red D6, Green D7, Black D8                      Note 2
+
+Note 1 - The ESP32C3 micro controller plugs in to the footers with the antenna connector facing the
+         center of the electrocookie board. See picture in readme file.
+
+Note 2 - LED data, power cable goes through hole you drill before soldering to the board.
+
+Any questions about this please ask them in the comments section on my youtube channel.
+https://www.youtube.com/watch?v=JreXLx5TAmk
