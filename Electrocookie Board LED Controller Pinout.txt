@@ -21,4 +21,8 @@ Note 1 - The ESP32C3 micro controller plugs in to the footers with the antenna c
 
 Note 2 - LED data, power cable goes through hole you drill before soldering to the board.
 
+Red Wire is for 5vdc +
+Black Wire is for GND -
+Green Wire is for Data
+
 Any questions about this please ask them in the comments section on my youtube channel.
