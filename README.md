@@ -11,4 +11,6 @@ WLED Download link: https://wled-install.github.io/
 
 Parts List: https://www.canva.com/design/DAGD7bK4H3k/TtyPjsbwK6zd8D-0dTZKMQ/view?utm_content=DAGD7bK4H3k&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
+Project Video: https://youtu.be/6PuQwaa7Lbw
+
 Some of these links may be Amazon affiliate links. Use of these links will not affect your pricing, but as an affiliate this channel may earn a small commission if you make a purchase.💖
