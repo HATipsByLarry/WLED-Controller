@@ -11,7 +11,7 @@ WLED Download link: https://wled-install.github.io/
 
 Parts List: https://www.canva.com/design/DAGD7bK4H3k/TtyPjsbwK6zd8D-0dTZKMQ/view?utm_content=DAGD7bK4H3k&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-Project Video: https://youtu.be/6PuQwaa7Lbw
+Project Video: https://youtu.be/B3faTp67hBY
 
 Give Away Rules: https://github.com/HATipsByLarry/WLED-Controller/blob/main/Give%20Away
 
