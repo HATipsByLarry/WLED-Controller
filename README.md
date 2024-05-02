@@ -13,6 +13,8 @@ Parts List: https://www.canva.com/design/DAGD7bK4H3k/TtyPjsbwK6zd8D-0dTZKMQ/view
 
 Project Video: https://youtu.be/6PuQwaa7Lbw
 
+Give Away Rules: https://github.com/HATipsByLarry/WLED-Controller/blob/main/Give%20Away
+
 Some of these links may be Amazon affiliate links. Use of these links will not affect your pricing, but as an affiliate this channel may earn a small commission if you make a purchase.💖
 
 ___ ☕ Buy Me A Coffee! ☕ __ https://www.buymeacoffee.com/hatipsbylarry
